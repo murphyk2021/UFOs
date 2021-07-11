@@ -20,7 +20,9 @@ Filtering the data with one criteria, like the date, is a fairly simple process.
 5.  The data table was rebuilt using the information in the new array of objects.
 ![handleclick](https://github.com/murphyk2021/UFOs/blob/fd01eb760ad9ca6a9072fbc4c171bf624a0c8c4a/static/images/simple%20filter2.png)
 
-Filtering the data with more than one criteria can be a little more complicated as we must retrieve the information from each input field and loop through our dataset to locate the objects which matched all of the criteria.
+Filtering the data with more than one criteria can be a little more complicated as we must retrieve and save any changes to any of the input fields as an object, and then loop through our original dataset to locate the objects which match all of the requested criteria nd create a new array which will be used to populate the table.
+![code for multiple search criteria]()
+
 
 
 ---
