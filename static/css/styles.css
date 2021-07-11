@@ -91,6 +91,13 @@ header.masthead h2 {
     font-size: 1.3rem;
 }
 
+#state,
+#datetime,
+#city,
+#country,
+#shape{
+    color:crimson;
+  }
 @media (min-width: 992px) {
     header.masthead {
         padding-top: calc(2rem + 106px);
