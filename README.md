@@ -18,7 +18,7 @@ Filtering the data with one criteria, like the date, is a fairly simple process.
 3.  The information typed into the input field was retrieved.  
 4.  Each row of the date column was examined.  If the input value and the cell value were a match, then the object became part of a new array called "filteredData".  
 5.  The data table was rebuilt using the information in the new array of objects.
-![handleclick](https://github.com/murphyk2021/UFOs/blob/2536d2f14f6ed3aef448312814853b10d5ccf43e/static/images/simple%20filter2.png)
+![handleclick](https://github.com/murphyk2021/UFOs/blob/fd01eb760ad9ca6a9072fbc4c171bf624a0c8c4a/static/images/simple%20filter2.png)
 
 Filtering the data with more than one criteria can be a little more complicated as we must retrieve the information from each input field and loop through our dataset to locate the objects which matched all of the criteria.
 
