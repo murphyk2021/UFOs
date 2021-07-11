@@ -25,9 +25,12 @@ In this module, students continued to practice using Javascript, HTML, and Boots
 
 ![handleclick](https://github.com/murphyk2021/UFOs/blob/fd01eb760ad9ca6a9072fbc4c171bf624a0c8c4a/static/images/simple%20filter2.png)
 
-**Filtering the data with more than one criteria** can be a little more complicated as we must retrieve and save any changes to any of the input fields as an object. Then we will need to loop through our original dataset to locate the objects which match all of the requested criteria and generate a new array which will be used to populate the table.
+**Filtering the data with more than one criteria**
+![frontend of webpage with multiple search criteria](https://github.com/murphyk2021/UFOs/blob/b78bd7f1b4e6d5955bc1bd81f73a5eb15c8272d9/static/images/challenge_webpage.PNG)
 
+Filtering the data with more than one criteria can be a little more complicated as we must retrieve and save any changes to any of the input fields as an object. Then we will need to loop through our original dataset to locate the objects which match all of the requested criteria and generate a new array which will be used to populate the table.
 ![code for multiple search criteria](https://github.com/murphyk2021/UFOs/blob/7d70c2c697fa8ae26a55a6c2d79316db4ec40aaa/static/images/code%20for%20multiple%20search%20criteria.png)
+
 
 ---
 ### Moving Forward
