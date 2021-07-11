@@ -38,3 +38,4 @@ Another potential opportunity for improving our search is the type of user input
 ![image of date ranges input fields](https://github.com/murphyk2021/UFOs/blob/6779754dc1bb4ff77d6065fa31419353b5729dca/static/images/improvement_1.PNG)
 
 One final improvement which could be made would be to add a Google Earth map that shows where the sighting(s) occured based on the user input criteria!
+![map](https://github.com/murphyk2021/UFOs/blob/1711c2b29921d5c78c89b71947f0f4a2b277d4e0/static/images/UFO%20sightings%20in%20texas.PNG)
