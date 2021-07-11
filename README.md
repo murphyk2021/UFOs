@@ -2,7 +2,9 @@
 ## Module 11: UFO Sightings with JavaScript
 ---
 ### Overview
-In this module, students continued to practice using Javascript, HTML, and Bootstrap.  The task: to create a webpage which displays a data table of all recorded UFO sightings during the year of 2010.  Since the dataset is rather large, an input field was added to allow the user to filter the data by a specific date.
+In this module, students continued to practice using Javascript, HTML, and Bootstrap.  
+
+**The task:** to create a webpage which displays a data table of all recorded UFO sightings during the year of 2010.  Since the dataset is rather large, an input field was added to allow the user to filter the data by a specific date.
 ![image of module created webpage](https://github.com/murphyk2021/UFOs/blob/9ffd9fc2334ce656ff20bfec614e22ed30645f65/static/images/module_webpage.PNG)
 
 ---
