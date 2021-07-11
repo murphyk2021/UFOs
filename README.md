@@ -37,4 +37,4 @@ One way we could improve on this web page would be to find another source for uf
 Another potential opportunity for improving our search is the type of user input fields we are using.  It might be more user friendly to use dropdown menus for the states and/or a date range for the dates (shown below).  This might help the user if they were interested in UFO sighting trends ("Is there a peak Earth tourist season?") or if they were looking for a particular event but could not recall the specific date which it occurred.
 ![image of date ranges input fields](https://github.com/murphyk2021/UFOs/blob/6779754dc1bb4ff77d6065fa31419353b5729dca/static/images/improvement_1.PNG)
 
-One final improvement which could be made would be to add a map that shows where the sighting(s) occured based on the user criteria - Zillow-style!
+One final improvement which could be made would be to add a Google Earth map that shows where the sighting(s) occured based on the user input criteria!
