@@ -7,7 +7,13 @@ In this module, students continued to practice using Javascript, HTML, and Boots
 
 ---
 ### Results
+To build our initial table, we simply loop through the data array and assign one object to each row and one key-value pair to each column. 
+![loop to build the table]
 
+Filtering the data with one criteria, like the date, is a fairly simple process.  First we created an event to "listen" for when the user clicked on the "Filter Table" button.  This would then activate a function (handleClick) which retrieved the information typed into the input field.  Then, each row of the date column was examined.  If the input value and the cell value were a match, then the object became part of a new array called "filteredData".  We then rebuilt the table from this new array of objects.
+![handleclick]
+
+Filtering the data with more than one criteria can be a little more complicated as we must retrieve the information from each input field and loop through our dataset to locate the objects which matched all of the criteria.
 
 
 ---
