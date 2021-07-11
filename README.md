@@ -16,6 +16,6 @@ One way we could improve on this web page would be to find another source for ou
 ![UFO reporting Center HomePage](https://github.com/murphyk2021/UFOs/blob/7875f67ea5ee36f8863f533e7de144b6269ef297/static/images/national%20UFO%20reporting%20center.png)
 
 Another potential opportunity for improving our search is the type of user input fields we are using.  It might be more user friendly to use dropdown menus for the states and/or a date range for the dates (shown below).
-![image of date ranges input fields](https://github.com/murphyk2021/UFOs/blob/3404dbb3dfe9a4b7402680c97b56ca76d9615bcb/static/images/improvement_1.PNG)
+![image of date ranges input fields](https://github.com/murphyk2021/UFOs/blob/6779754dc1bb4ff77d6065fa31419353b5729dca/static/images/improvement_1.PNG)
 
 One final improvement which could be made would be to add a map that shows where the sighting(s) occured  based on the user criteria - Zillow-style!
